@@ -21,10 +21,12 @@ IT 104 Intro Into Computing
 IT 102 Discrete Structures
 
 TECHNICAL SKILLS
+
 Languages: Java, Python, HTML
 Operating Systems: Windows 
 Database Systems: Oracle
 Technical:  Photoshop, Dreamweaver, Video editing, Microsoft Access, Indesign
+
 PROJECTS
 BrightPoint Community College                                                                    Chester, Virginia                                                                           
 Orthodontic Office Database Design:
@@ -86,6 +88,7 @@ Girl Up
 Established a female empowerment and social justice organization that is chartered by the United Nations Organization.
 Organized meetings and volunteer opportunities for members to engage in social justice issues and participate in the growth of the community.
 Spearheaded community presentations with a collaborative team and organized communal events.
+
 ACCOMPLISHMENTS 
 
 Deans list (2020)
