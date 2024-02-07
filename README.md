@@ -2,6 +2,7 @@
 A catalog of Devrielles Projects
 
 Motivated college student in Information Systems seeking a summer 2024 internship in any location.
+
 EDUCATION
 
 Information Systems, AS									    August 2024
