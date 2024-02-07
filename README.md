@@ -6,7 +6,9 @@ Motivated college student in Information Systems seeking a summer 2024 internshi
 EDUCATION
 
 Information Systems, AS									    August 2024
-Brightpoint Community College, Chester, VA
+Brightpoint Community College,
+
+Chester, VA
 
 Information Technology, BS, Concentration: Database Technology and Programming                   2020-2023
 George Mason University, Fairfax, VA
