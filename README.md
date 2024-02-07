@@ -29,6 +29,7 @@ Technical:  Photoshop, Dreamweaver, Video editing, Microsoft Access, Indesign
 
 PROJECTS
 
+
 BrightPoint Community College                                                                    Chester, Virginia                                                                           
 Orthodontic Office Database Design:
 This comprehensive project involves the systematic development of an orthodontic office database. 
