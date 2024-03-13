@@ -48,8 +48,9 @@ based on a specified scheme.
 - Implemented logic to identify the best score among the entered scores.
 - Assigned grades according to the specified scheme (A, B, C, D, F).
 
-**George Mason University                                                                            Fairfax, Virginia **
-Web 3 Information Website**
+**George Mason University                                                                            Fairfax, Virginia**
+
+**Web 3 Information Website**
 - Managed web servers proficiently using FTP tools like FileZilla.
 - Developed multiple HTML pages for a comprehensive website on web 3 technology.
 - Translated research findings into dynamic web content for enhanced accessibility.
