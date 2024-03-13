@@ -100,7 +100,7 @@ Soft Skills: Communication, Problem-solving, Time management, Leadership, Adapta
 
 <ins>LEADERSHIP</ins>
 
-**Girl Up **
+**Girl Up**
 - Established a female empowerment and social justice organization that is chartered by the United Nations Organization.
 Organized meetings and volunteer opportunities for members to engage in social justice issues and participate in the growth of the community.
 Spearheaded community presentations with a collaborative team and organized communal events.
