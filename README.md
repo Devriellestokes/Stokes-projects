@@ -42,7 +42,7 @@ Technical:  Photoshop, Dreamweaver, Video editing, Microsoft Access, Indesign
 - Defined cardinality and applied normalization techniques in Week 5 to ensure the database structure's suitability, preventing data redundancy and anomalies.
 - Facilitated thorough peer review of the ERD, refining and enhancing the design based on constructive feedback.
 
-**Students Grade Calculator**
+**Students Grade Calculator:**
 - Developed a program to read student scores, determine the best score, and assign grades 
 based on a specified scheme.
 - Implemented logic to identify the best score among the entered scores.
@@ -50,7 +50,7 @@ based on a specified scheme.
 
 **George Mason University                                                                            Fairfax, Virginia**
 
-**Web 3 Information Website**
+**Web 3 Information Website:**
 - Managed web servers proficiently using FTP tools like FileZilla.
 - Developed multiple HTML pages for a comprehensive website on web 3 technology.
 - Translated research findings into dynamic web content for enhanced accessibility.
