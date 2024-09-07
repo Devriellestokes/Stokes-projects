@@ -7,9 +7,9 @@ Motivated college student in Information Systems seeking a summer 2024 internshi
 - Information Systems, AS									    August 2024
 Brightpoint Community College,Chester, VA
 
-- Information Technology, BS, Concentration: Database Technology and Programming                   2020-2023
-George Mason University, Fairfax, VA
-(Completed some undergraduate coursework)         
+- Information Systems, BS                    August 2024-2026
+Virginia Commonwealth University, Richmond, VA
+        
 
 <ins>RELEVANT COURSEWORK</ins>
 
@@ -22,13 +22,13 @@ George Mason University, Fairfax, VA
 
 <ins>TECHNICAL SKILLS</ins>
 
-Languages: Java, Python, HTML 
+Languages: Java, Python, HTML, SQL
 
 Operating Systems: Windows 
 
 Database Systems: Oracle
 
-Technical:  Photoshop, Dreamweaver, Video editing, Microsoft Access, Indesign
+Technical:  Photoshop, Dreamweaver, Video editing, Microsoft office 365, Azure
 
 <ins>PROJECTS</ins>
 
@@ -61,6 +61,10 @@ based on a specified scheme.
              
 
 <ins>WORK EXPERIENCE </ins>
+
+**IT Implementation Intern, IT4Causes, Richmond, VA                                                                   August 2024-present**
+
+
 
 **Merchandising Expert, Target, Colonial Heights, VA                                                                   November 2020-present**
 
