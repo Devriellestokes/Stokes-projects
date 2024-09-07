@@ -4,12 +4,12 @@ Motivated college student in Information Systems seeking a summer 2024 internshi
 
 <ins>EDUCATION</ins>
 
+- Information Systems, BS                                                                          August 2024-2026
+Virginia Commonwealth University, Richmond, VA
+
 - Information Systems, AS									    August 2024
 Brightpoint Community College,Chester, VA
 
-- Information Systems, BS                    August 2024-2026
-Virginia Commonwealth University, Richmond, VA
-        
 
 <ins>RELEVANT COURSEWORK</ins>
 
@@ -62,7 +62,7 @@ based on a specified scheme.
 
 <ins>WORK EXPERIENCE </ins>
 
-**IT Implementation Intern, IT4Causes, Richmond, VA                                                                   August 2024-present**
+**IT Implementation Intern, IT4Causes, Richmond, VA                                                                    August  2024-present**
 
 
 
